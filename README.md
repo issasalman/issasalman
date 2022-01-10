@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issasalman&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issasalman&theme=dark)
 
 
 
