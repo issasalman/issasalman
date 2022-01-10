@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issasalman&theme=dark)
 
+![issasalman's GitHub stats](https://github-readme-stats.vercel.app/api?username=issasalman&show_icons=true&theme=default)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issasalman&layout=compact)](https://github.com/issasalman/github-readme-stats)
 
 <!--
 **issasalman/issasalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
